@@ -42,4 +42,28 @@ open index.html
 
 ---
 
+## 🧙‍♂️ Features
+
+- Simple one-click **background changer**  
+- Displays the **current HEX color code**  
+- Uses a custom **array of dark color tones** 🎨  
+- Lightweight setup with **HTML + CSS + JS only**  
+- Fully **responsive** and works in any browser 🌐  
+
+---
+
+## 💡 Contribute
+
+Want to improve this project?  
+- Fork the repo 🍴  
+- Make your changes ✍️  
+- Submit a Pull Request ✅  
+
+---
+
+## 📜 License
+
+This project is open-source under the **MIT License**.
+
+---
 ⭐ **If you like this project, give it a star on GitHub!** ⭐
