@@ -27,15 +27,16 @@ Link Demo: https://acheronx0577.github.io/JavaScript-Role-Play-Game
 ---
 
 ## 🚀 How to Run
-
-```bash
 # Clone the repo
+```
 git clone git@github.com:acheronx0577/JavaScript-Random-Background-Color-Changer.git
-
+```
 # Open the folder
-cd JavaScript-Random-Background-Color-Changer
-
+```
+cd JavaScript Random Background Color Changer
+```
 # Run in your browser
+```
 open index.html
 ```
 
