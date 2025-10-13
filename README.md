@@ -19,12 +19,6 @@ Link Demo: https://acheronx0577.github.io/JavaScript-Role-Play-Game
 
 ---
 
-## 💻 Preview
-
-![Screenshot of Random Background Color Changer](assets/screenshot.png)
-
----
-
 ## 🧰 Tech Stack
 - 🟨 JavaScript (ES6)
 - 🌐 HTML5
