@@ -33,7 +33,7 @@ git clone git@github.com:acheronx0577/JavaScript-Random-Background-Color-Changer
 ```
 # Open the folder
 ```
-cd JavaScript Random Background Color Changer
+cd JavaScript-Random-Background-Color-Changer
 ```
 # Run in your browser
 ```
