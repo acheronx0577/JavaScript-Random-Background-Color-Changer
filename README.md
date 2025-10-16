@@ -9,6 +9,7 @@ A simple web app that changes the background color to a random dark tone every t
 <img width="2027" height="1196" alt="image" src="https://github.com/user-attachments/assets/0bb379ef-33a0-430f-86cb-811592d7fadb" />
 
 Link Demo: https://acheronx0577.github.io/JavaScript-Random-Background-Color-Changer
+
 ---
 
 ## 🧠 What I Learned
