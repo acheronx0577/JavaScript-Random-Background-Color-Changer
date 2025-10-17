@@ -4,6 +4,14 @@ A simple web app that changes the background color to a random dark tone every t
 
 ---
 
+## 🎓 Certification
+
+🔗 **Course Link:** [JavaScript Algorithms and Data Structures - freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8)
+
+This project was completed as part of the freeCodeCamp certification requirements to demonstrate proficiency in JavaScript fundamentals, algorithms, and data structures.
+
+---
+
 ## 📸 Game Preview
 
 <img width="2027" height="1196" alt="image" src="https://github.com/user-attachments/assets/0bb379ef-33a0-430f-86cb-811592d7fadb" />
