@@ -11,7 +11,7 @@ A simple web app that changes the background color to a random dark tone every t
 **Complete Your Certificate:**
 - ✅ This project (Random Background Color Changer) fulfills one requirement
 
-**Full Project Suite:** [25+ hands-on projects from Pyramid Generator to Final Certification Projects](https://github.com/acheronx0577/JavaScript-Algorithms-and-data-structures/tree/main)
+**Full Project Suite:** [25+ hands-on projects from Pyramid Generator to Final Certification Projects](https://github.com/acheronx0577/JavaScript-Algorithms-and-Data-Structures)
 - 🎓 Complete all projects to earn your certification
 
 This repository contains the complete portfolio of projects needed to demonstrate JavaScript proficiency and earn the freeCodeCamp certificate.
