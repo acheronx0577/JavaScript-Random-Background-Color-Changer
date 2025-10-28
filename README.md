@@ -1,8 +1,6 @@
-# 🎨 JavaScript Random Background Color Changer
+# 🎨 Random Background Color Changer
 
-A simple web app that changes the background color to a random dark tone every time you click the button. Perfect for practicing basic **DOM manipulation**, **arrays**, and **JavaScript events**! ⚡
-
----
+A simple web app that changes the background to random dark colors with each click.
 
 ## 🎓 Certification
 
@@ -16,69 +14,66 @@ A simple web app that changes the background color to a random dark tone every t
 
 This repository contains the complete portfolio of projects needed to demonstrate JavaScript proficiency and earn the freeCodeCamp certificate.
 
----
+## 📸 App Preview
 
-## 📸 Game Preview
+<img width="2027" height="1196" alt="Color Changer Preview" src="https://github.com/user-attachments/assets/0bb379ef-33a0-430f-86cb-811592d7fadb" />
 
-<img width="2027" height="1196" alt="image" src="https://github.com/user-attachments/assets/0bb379ef-33a0-430f-86cb-811592d7fadb" />
+**Live Demo:** https://acheronx0577.github.io/JavaScript-Random-Background-Color-Changer
 
-Live Demo: https://acheronx0577.github.io/JavaScript-Random-Background-Color-Changer
+## ✨ Features
 
----
-
-## 🧠 What I Learned
-- Selecting and updating DOM elements using JavaScript  
-- Handling click events with `onclick`  
-- Generating random values from an array  
-- Dynamically changing CSS styles  
+- **🎨 One-Click Color Changes** - New random dark color with each click
+- **📱 Responsive Design** - Works on all devices and screen sizes
+- **🔄 Real-time HEX Display** - Shows current color code
+- **⚡ Instant Updates** - Smooth background transitions
 
 ---
 
-## 🧰 Tech Stack
-- 🟨 JavaScript (ES6)
-- 🌐 HTML5
-- 🎨 CSS3
+## 🧰 Installation & Usage
 
----
-
-## 🚀 How to Run
-# Clone the repo
+### 1️⃣ Clone this repo
 ```
-git clone git@github.com:acheronx0577/JavaScript-Random-Background-Color-Changer.git
-```
-# Open the folder
-```
-cd JavaScript-Random-Background-Color-Changer
-```
-# Run in your browser
-```
-open index.html
+git clone git@github.com:acheronx0577/JavaScript-Building-a-Number-Sorter.git
 ```
 
----
+### 2️⃣ Open the project folder
+```
+cd JavaScript-Building-a-Number-Sorter
+```
 
-## 🧙‍♂️ Features
-
-- Simple one-click **background changer**  
-- Displays the **current HEX color code**  
-- Uses a custom **array of dark color tones** 🎨  
-- Lightweight setup with **HTML + CSS + JS only**  
-- Fully **responsive** and works in any browser 🌐  
+### 3️⃣ Run the file
+Just open `index.html` in your favorite browser 🌐 and start playing!
 
 ---
 
-## 💡 Contribute
+## 🎯 How to Use
 
-Want to improve this project?  
-- Fork the repo 🍴  
-- Make your changes ✍️  
-- Submit a Pull Request ✅  
+1. Open the application in your browser
+2. Click the "Click Me" button
+3. Watch the background change to a random dark color
+4. See the HEX code displayed on screen
+
+## 📁 Project Structure
+
+- `index.html` - Application structure and layout
+- `script.js` - Color logic and DOM manipulation
+- `styles.css` - Visual design and animations
+
+## 🛠️ Technical Features
+
+- DOM manipulation and event handling
+- Random array value selection
+- Dynamic CSS style updates
+- Clean, modern JavaScript (ES6)
+
+## 🤝 Contributing
+
+Want to enhance the color changer? Fork the repo and submit PRs for:
+- New color palettes and themes
+- Additional animation effects
+- Custom color input options
+- Visual improvements
 
 ---
 
-## 📜 License
-
-This project is open-source under the **MIT License**.
-
----
-⭐ **If you like this project, give it a star on GitHub!** ⭐
+*Built with ❤️ through freeCodeCamp | Add some color to your day!*
