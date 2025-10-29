@@ -48,12 +48,6 @@ Just open `index.html` in your favorite browser 🌐 and start playing!
 3. Watch the background change to a random dark color
 4. See the HEX code displayed on screen
 
-## 📁 Project Structure
-
-- `index.html` - Application structure and layout
-- `script.js` - Color logic and DOM manipulation
-- `styles.css` - Visual design and animations
-
 ## 🛠️ Technical Features
 
 - DOM manipulation and event handling
