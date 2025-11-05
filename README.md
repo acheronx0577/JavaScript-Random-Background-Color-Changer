@@ -16,7 +16,7 @@ This repository contains the complete portfolio of projects needed to demonstrat
 
 ## 📸 App Preview
 
-![Uploading Screenshot 2025-11-05 143306.png…]()
+<img width="928" height="773" alt="Screenshot 2025-11-05 143306" src="https://github.com/user-attachments/assets/2a877d82-1b83-4454-818b-acc597057c6f" />
 
 **Live Demo:** https://acheronx0577.github.io/JavaScript-Random-Background-Color-Changer
 
